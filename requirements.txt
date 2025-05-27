@@ -1,0 +1,7 @@
+glfw
+keyboard
+pygame
+PyOpenGL
+PyWavefront
+pyquaternion
+numpy
